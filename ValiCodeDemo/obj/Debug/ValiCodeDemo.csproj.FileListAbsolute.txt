@@ -1,0 +1,5 @@
+d:\mybackup\我的文档\visual studio 2010\Projects\ValiCodeDemo\ValiCodeDemo\bin\ValiCodeDemo.dll
+d:\mybackup\我的文档\visual studio 2010\Projects\ValiCodeDemo\ValiCodeDemo\bin\ValiCodeDemo.pdb
+d:\mybackup\我的文档\visual studio 2010\Projects\ValiCodeDemo\ValiCodeDemo\obj\Debug\ResolveAssemblyReference.cache
+d:\mybackup\我的文档\visual studio 2010\Projects\ValiCodeDemo\ValiCodeDemo\obj\Debug\ValiCodeDemo.dll
+d:\mybackup\我的文档\visual studio 2010\Projects\ValiCodeDemo\ValiCodeDemo\obj\Debug\ValiCodeDemo.pdb
